@@ -1,0 +1,6 @@
+
+36	sada	das	2400
+99	kamil	mustecep	2400
+77	selm	izmi	2400
+82	kerem	i	800
+98	selman	izmirli	1500
